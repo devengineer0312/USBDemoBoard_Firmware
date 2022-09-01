@@ -1,0 +1,10 @@
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.csprojResolveAssemblyReference.cache
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.Form1.resources
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.Properties.Resources.resources
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.csproj.GenerateResource.cache
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.csproj.CoreCompileInputs.cache
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Debug\USBDemoBoard.exe
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Debug\USBDemoBoard.pdb
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.exe
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.pdb
+E:\2018 Projects\EMV Reader Project_Canada(George)\Work\EMV PC app\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.USBClass.resources
